@@ -1,2 +1,2 @@
-# KhanAcademy-Algorithms
-Solutions to all coding challenges for Algorithms course on KhanAcademy
+## KhanAcademy-Algorithms
+Here, I provide my solutions to all coding challenges and exercises in the KhanAcademy algorithms course  
